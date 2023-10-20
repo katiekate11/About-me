@@ -9,4 +9,4 @@
 
 Вот пример моей открытки :)
 
-![](../img/Postcard.png)
+![](img/Postcard.png)
