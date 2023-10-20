@@ -9,5 +9,5 @@
 
 Вот пример моей открытки :)
 
-![](../img/Postcard.jpg)
+![](../img/Postcard.png)
 
