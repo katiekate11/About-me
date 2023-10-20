@@ -9,5 +9,5 @@
 
 Вот пример моей открытки :)
 
-![](C:\Users\$layer\Desktop\Иллюстрация_без_названия (6).jpg)
+![](C:\Users\$layer\Desktop\About me\img\Иллюстрация_без_названия (6).jpg)
 
